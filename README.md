@@ -18,7 +18,7 @@ GenAI complexities used: Prompt Engineering(LangChain), Vector Database, RAG
 
 Programming Language: Python
 
-CI/CD imp: Git, GitLab, Runner
+CI/CD imp: Git, GitLab, GitLab Runner
 
 Microservices Architecture: WebInterface, Docker Img of the apps.
 
